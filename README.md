@@ -1,4 +1,13 @@
-# 💤 LazyVim
+# The Nvim Repo
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+## Stack
+- Neovim
+- LazyVim
+
+## Plugins
+
+Everforest Theme [repo](https://github.com/sainnhe/everforest)
+LayteX support [repo](https://github.com/lervag/vimtex)
+Snacks:
+- Wizard
+- Auto close explorer after selecting a file
